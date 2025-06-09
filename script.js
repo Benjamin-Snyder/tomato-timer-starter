@@ -13,7 +13,10 @@ let studyCount = 0;
 let breakCount = 0;
 
 
-//add a comment to test branches
+// deleted old branch and added a new one
+//
+
+
 
 let totalMin;
 let totalSec
