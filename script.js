@@ -12,6 +12,9 @@ breakElem.textContent = "0";
 let studyCount = 0;
 let breakCount = 0;
 
+
+//add a comment to test branches
+
 let totalMin;
 let totalSec
 studyBtn.addEventListener("click", function(){
